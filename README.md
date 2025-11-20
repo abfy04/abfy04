@@ -1,10 +1,25 @@
-<img src = "./assets/pixels.gif"/>
-# 💫 About Me:
-<br>Hey there! I’m Ayoub — a backend developer who loves building things that just work… and occasionally creating bugs along the way 😅 
-<br><br>Lately, I’ve been leveling up my workflow by exploring **Neovim** and getting more comfortable with **Linux **
-<br><br>When I’m not coding, I like to relax, and enjoy the little things in life. 
-<br>My goals? Stay curious, keep improving (even if lazily 😄), and maybe one day live somewhere green and peaceful 🌿🚀  
-<br><br>Always happy to connect, share ideas, or collaborate on something exciting!
+
+
+<img width="100%" src = "./assets/pixels.gif"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayoub-fikry-57a39b236/" target="_blank">
+    <img src="./assets/icons/linkedin.png" width="15" />
+  </a>
+   <a href="https://x.com/dev_abfy" target="_blank">
+    <img src="./assets/icons/twitter.png" width="15" />
+  </a>
+  
+</p>
+<h1 align="center"><em> About Me </em></h1>
+<p align="center">
+Hey there! I’m Ayoub Fikry — a backend developer who loves building things that just work… and occasionally creating bugs along the way 😅 
+Lately, I’ve been leveling up my workflow by exploring **Neovim** and getting more comfortable with **Linux **
+When I’m not coding, I like to relax, and enjoy the little things in life. 
+My goals? Stay curious, keep improving (even if lazily 😄), and maybe one day live somewhere green and peaceful 🌿🚀  
+<br>Always happy to connect, share ideas, or collaborate on something exciting!
+</p>
+
 
 
 # 💻 Tech Stack:
