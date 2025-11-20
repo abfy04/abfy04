@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ayoub-fikry-57a39b236/" target="_blank">
     <img src="./assets/icons/linkedin.png" width="50" />
   </a>
-  <p>&nbsp;&nbsp;&nbsp;</p>
+  &nbsp;&nbsp;&nbsp;
    <a href="https://x.com/dev_abfy" target="_blank">
     <img src="./assets/icons/twitter.png" width="50" />
   </a>
