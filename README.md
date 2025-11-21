@@ -66,17 +66,4 @@ My goals? Stay curious, keep improving (even if lazily 😄), and maybe one day 
           
 </p>
 
-<h1 align="center"><em>Status</em></h1>
-<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=abfy04&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abfy04&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abfy04&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  
-</p>
-
-
-### ✍️ Random Dev Quote
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
