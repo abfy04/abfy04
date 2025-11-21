@@ -12,6 +12,9 @@
   </a>
   
 </p>
+<p width="100%">
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</p>
 <h1 align="center"><em> About Me </em></h1>
 <p align="center">
 Hey there! I’m Ayoub Fikry — a backend developer who loves building things that just work… and occasionally creating bugs along the way 😅 
@@ -69,6 +72,6 @@ My goals? Stay curious, keep improving (even if lazily 😄), and maybe one day 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abfy04&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
