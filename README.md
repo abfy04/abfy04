@@ -66,7 +66,7 @@ My goals? Stay curious, keep improving (even if lazily 😄), and maybe one day 
           
 </p>
 
-
+<h1 align="center"><em>Status</em></h1>
 <p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=abfy04&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
